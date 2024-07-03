@@ -1,0 +1,1 @@
+make a page from left to right space 200 px. its color is gray. and consist of 3 cart each card has round edge and color is white . in middle font color is blue..
